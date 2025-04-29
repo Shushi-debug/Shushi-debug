@@ -5,7 +5,7 @@
 Welcome to my personal little corner, where I share my studies and the projects I'm building for my portfolio.
 
 🌟 I'm finally pursuing my dream — becoming a **developer in the tech world!**  
-💻 Currently studying **Systems Analysis and Development (ADS)** at Unisinos
+💻 Currently studying **Systems Analysis and Development (ADS)** at Unisinos  
 🌱 Learning **JavaScript, HTML, CSS**, and **programming logic**  
 🎮 Building simple games, websites, and exploring the magic of **code + creativity**  
 🎨 Interested in **UX/UI design** and how it connects with development  
