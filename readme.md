@@ -6,7 +6,7 @@ Welcome to my personal little corner, where I share my studies and the projects 
 
 🌟 I'm finally pursuing my dream — becoming a **developer in the tech world!**  
 💻 Currently studying **Systems Analysis and Development (ADS)** at Unisinos  
-🌱 Learning **JavaScript, HTML, CSS**, and **programming logic**  
+🌱 Learning **Python, Java, JavaScript, HTML, CSS**, and **programming logic**  
 🎮 Building simple games, websites, and exploring the magic of **code + creativity**  
 🌻 Passionate about solving problems and learning new things (even if it scares me sometimes 😅)
 
@@ -21,4 +21,5 @@ Welcome to my personal little corner, where I share my studies and the projects 
 ---
 
 _"One line of code a day brings me closer to my dreams."_✨
+
 
